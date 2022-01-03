@@ -36,7 +36,7 @@
             </Label>
             <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" style="-fx-border-color: #55071F; -fx-background-color: #15072F;">
                <children>
-                  <Label graphicTextGap="16.0" prefHeight="27.0" prefWidth="127.0" text="Author: " textFill="WHITE">
+                  <Label graphicTextGap="16.0" prefHeight="27.0" prefWidth="127.0" text="Written By: " textFill="WHITE">
                      <font>
                         <Font size="18.0" />
                      </font>
