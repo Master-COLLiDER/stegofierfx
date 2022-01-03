@@ -26,7 +26,7 @@
                   <Image url="@../images/logo_black_background.png" />
                </image>
             </ImageView>
-            <Label text="Stegofier 1.0" textFill="WHITE">
+            <Label text="Stegofier v1.0.0" textFill="WHITE">
                <font>
                   <Font size="18.0" />
                </font>

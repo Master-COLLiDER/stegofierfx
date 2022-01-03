@@ -176,7 +176,7 @@ public class RSAKeysGeneratorFxController implements Initializable {
     public void openGithub(ActionEvent event)
     {
         try {
-            Desktop.getDesktop().browse(new URI("https://github.com/Master-COLLiDER"));
+            Desktop.getDesktop().browse(new URI("https://master-collider.github.io/stegofierfx"));
         } catch (IOException | URISyntaxException e) {
             e.printStackTrace();
         }
