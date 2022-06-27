@@ -7,6 +7,7 @@
 
 ***Stegofier** is an Application Software, with simple and user friendly interface to hide and retrieve message inside any Image file (Specifically for Portable Network Graphics (.PNG) files) with a support for range of Devices and Operating Systems.*
 
+## This is the report for this project : '[Project Report](https://github.com/Master-COLLiDER/stegofierfx/raw/master/Project%20Report.pdf)'
 
 ## License
 This project is subject to the terms and conditions defined in the file '[LICENSE](LICENSE)' which is part of this source code package.
